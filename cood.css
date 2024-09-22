@@ -1,0 +1,181 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.fist-nav
+{
+    display: auto;
+    background-color:white;
+    height: 40px;
+    justify-content: space-evenly;
+    display: flex;
+    border: px solid rgb(59, 57, 57);
+    margin-top: 10px;
+   
+    
+}
+.fist-shead
+{
+    display: flex;
+    align-items: center;
+    
+}
+.second-shead
+{
+    display: flex;
+    align-items: center;
+    background-color: #aeaeb4;
+    width:450px;  
+}
+.second-shead.border
+{
+   border: 2px solid hsl(0, 6%, 70%); 
+   border-radius: 20px;
+}
+.second-shead p
+{
+    padding: 8px 10px;
+    margin-left: 20px;
+}
+.View
+{
+    margin-left:10px;    
+    height: 45px;    
+    width: 150px;
+}
+.View p
+{
+    border:2px solid yellow;
+    border-radius: 20px;
+    background-color: brown;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.Third-shead
+{
+    display: flex;
+    align-items: center;
+}
+.sing
+{
+    width: 200px;
+    height: 30px;
+}
+.sing.border
+{
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.singin
+{
+    margin-left: 10px;
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/*-----------------Second-nav-------------------------*/
+.second-nav
+{
+    margin-top: 20px;
+    background-color: hsl(0, 0%, 97%);
+    height: 40px;
+    display: flex;
+}
+.second-nav p
+{
+    padding: 10px 10px;
+    font-size:20px;
+}
+/*-----------------print-walpepar-------------------------*/
+.print-walpepar
+{
+    height: 900px;
+    background-color:#fdcdd5;
+    
+
+}
+.fist
+{
+    display: flex;
+}
+.fist h1
+{
+    font-size: 40px;
+    color: #f0e9e9;
+    margin-top: 20px;
+   font-weight: 700;
+   background-color: red;
+   width: 60px;
+   height: 50px;
+   margin-left: 40px;
+}
+.fist p
+{
+    font-size: 40px;
+    color: #0c0b0b;
+    margin-top: 20px;
+    font-weight: 800;
+    margin-left: 20px;
+}
+/*-----------------box-walpepar-------------------------*/
+
+.box
+{
+    display: flex;
+    width: 500px;
+    height: 700px;
+    
+}
+.box-left
+{
+    margin-right:2%;
+    font-size: 20px;
+    margin-left: 3%;
+    padding: 10PX 20PX;
+}
+.box-left hr
+{
+   width: 20px;
+   height: 30px;
+}
+.box-right
+{
+    margin-left: 7%;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+/*-----------------third-Section-------------------------*/
+.third-section
+{
+    margin-top: -120px;
+}
+.ttopic
+{
+    display: flex;
+}
+.img-icon
+{
+    margin-left: 30px;
+    padding-bottom: px;
+}
+.text h1
+{
+    margin-left: 30px;
+    font-size:30px;
+    margin-top: 8px;
+}
+.text p
+{
+    margin-left: 40px;
+    font-size:25px;
+    margin-top: 10px;
+}
+
+
+
+
+/*----------------------footer---------------------*/
